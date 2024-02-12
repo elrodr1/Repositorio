@@ -1,3 +1,5 @@
 Chanchito_infeliz
 Chanchito_diarrea
 Chanchito_vomito
+Chanchito_purgado
+Chanchito_sanado
